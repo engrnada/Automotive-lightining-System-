@@ -1,7 +1,7 @@
 /*
  *<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<    DIO_program.c    >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
  *
- *  Author : Mahmoud Karem Zamel
+ *  Author : Nada Hassan 
  *  Layer  : MCAL
  *  SWC    : DIO/GPIO
  *
