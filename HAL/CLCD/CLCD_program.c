@@ -1,7 +1,7 @@
 /*
  *<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<    CLCD_program.c    >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
  *
- *  Author : Mahmoud Karem Zamel
+ *  Author : Nada Hassan 
  *  Layer  : HAL
  *  SWC    : CLCD
  *
