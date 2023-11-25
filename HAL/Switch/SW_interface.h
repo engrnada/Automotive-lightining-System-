@@ -1,7 +1,7 @@
 /*
  *<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<    SW_interface.h    >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
  *
- *  Author : Mahmoud Karem Zamel
+ *  Author : Nada Hassan 
  *  Layer  : HAL
  *  SWC    : SWITCH / BUTTON
  *
