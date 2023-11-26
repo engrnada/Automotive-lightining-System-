@@ -159,22 +159,13 @@ void MODE_vidLeftBlink (void)
 void MODE_vidHazardBlink (void)
 {
 	APP_vidSetMode(HAZZARD_BLINK);
-	if (SW_u8GetPressed(R_SW)){
 
-				MODE_Status = RIGHT_BLINK;
-
-			}
-			else if (SW_u8GetPressed(L_SW)){
-
-				MODE_Status = LEFT_BLINK;
-
-			}
-			else if (SW_u8GetPressed(H_SW)){
+		if (SW_u8GetPressed(H_SW)){
 
 
-				MODE_Status = LocPrevious;
+			MODE_Status = LocPrevious;
 
-			}
+		}
 
 	/* Set Mode to HAZZARD_BLINK */
 	/* Check the SWs */
